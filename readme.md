@@ -7,14 +7,14 @@ Vous pouvez retrouver le tutoriel à l'adresse suivante : [http://www.siteduzero
 
 Chaque dossier contient une grande partie du tutoriel, elle-même divisée en chapitres.
 Les grandes parties sont :
-+ **Partie 1** Découvertes de l'Arduino
-+ **Partie 2** Gestion des entrées / sorties
-+ **Partie 3** Communication par la liaison série
-+ **Partie 4** Les grandeurs analogiques
-+ **Partie 5** Les capteurs et l'environnement autour d'Arduino
-+ **Partie 6** Le mouvement grâce aux moteurs
-+ **Partie 7** L'affichage, une autre manière d'interagir
-+ **Annexe 1** Aller plus loin !
++ **Partie 1** : Découvertes de l'Arduino
++ **Partie 2** : Gestion des entrées / sorties
++ **Partie 3** : Communication par la liaison série
++ **Partie 4** : Les grandeurs analogiques
++ **Partie 5** : Les capteurs et l'environnement autour d'Arduino
++ **Partie 6** : Le mouvement grâce aux moteurs
++ **Partie 7** : L'affichage, une autre manière d'interagir
++ **Annexes** : Aller plus loin !
 
 # License
 
