@@ -10,3 +10,5 @@
 ## Commentaires
 
 En cours d'écriture / relecture
+
+Aucund document dans le dossier "Chapitre 1 - Les composants électroniques du tuto (liste d'achats)"
