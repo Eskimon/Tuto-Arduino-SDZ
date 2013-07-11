@@ -1,0 +1,11 @@
+void setup()
+{
+   Serial.begin(9600);
+
+   Serial.println(65, BIN); //envoie la valeur 1000001
+   Serial.println(65, DEC); //envoie la valeur 65
+   Serial.println(65, OCT); //envoie la valeur 101 (ce n'est pas du binaire !)
+   Serial.println(65, HEX); //envoie la valeur 41
+}
+
+
