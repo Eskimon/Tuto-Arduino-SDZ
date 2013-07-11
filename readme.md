@@ -16,6 +16,11 @@ Les grandes parties sont :
 + **Partie 7** : L'affichage, une autre manière d'interagir
 + **Annexes** : Aller plus loin !
 
+## Logiciels et version
+
+Tous les schémas ont été réalisés avec le logiciel [Fritzing](http://fritzing.org/) en version 0.7.10 au moment d'écriture de ces lignes.
+Pour les codes [Arduino](http://arduino.cc/), ils ont été écrits avec la version 1.0.1 de l'IDE.
+
 # License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
