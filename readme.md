@@ -1,7 +1,7 @@
-# Tuto Arduino du SdZ
+# Tuto Arduino du <del>SdZ</del> blog Eskimon.fr
 
-Ce dépôt contient l'ensemble des sources, montages Fritzing, illustrations du tuto Arduino écrit pour le Site du Zéro.
-Vous pouvez retrouver le tutoriel à l'adresse suivante : [http://www.siteduzero.com/sciences/tutoriels/arduino-pour-bien-commencer-en-electronique-et-en-programmation](http://www.siteduzero.com/sciences/tutoriels/arduino-pour-bien-commencer-en-electronique-et-en-programmation)
+Ce dépôt contient l'ensemble des sources, montages Fritzing, illustrations du tuto Arduino écrit pour l'ex Site du Zéro et maintenant disponible sur [mon blog](http://eskimon.fr).
+Vous pouvez retrouver le tutoriel à l'adresse suivante : [http://eskimon.fr/196-arduino-bienvenue-sur-le-tuto](http://eskimon.fr/196-arduino-bienvenue-sur-le-tuto)
 
 ## Architecture du dépôt
 
